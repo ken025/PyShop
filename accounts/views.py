@@ -1,6 +1,7 @@
+
 from django.shortcuts import render, get_object_or_404
 
-from cart.models import Order
+from shopping_cart.models import Order
 from .models import Profile
 
 
